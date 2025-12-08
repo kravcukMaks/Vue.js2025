@@ -1,0 +1,30 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-main {
+  flex: 1;
+  padding: 20px;
+}
+
+/* Transition для маршрутів */
+.route-fade-enter-from,
+.route-fade-leave-to {
+  opacity: 0;
+  transform: translateY(10px);
+}
+
+.route-fade-enter-active,
+.route-fade-leave-active {
+  transition: all 0.25s ease;
+}
+
+/* Карточки */
+.card {
+  background: var(--bg-card);
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
+}
