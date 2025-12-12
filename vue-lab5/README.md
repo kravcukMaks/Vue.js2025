@@ -148,6 +148,12 @@ app.use(CopyToClipboardPlugin)
 
 # Скріншоти
 
+![Image1](vue1.png)
+
+![Image2](vue2.png)
+
+![Image3](vue3.png)
+
 ---
 
 # 8. Висновки
