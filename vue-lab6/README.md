@@ -56,6 +56,10 @@ http://localhost:3000
 
 ---
 
+# Скріншоти
+
+---
+
 ## Серверні маршрути (Nitro API)
 - `server/api/posts.get.ts`
 - `server/api/posts/[slug].get.ts`
