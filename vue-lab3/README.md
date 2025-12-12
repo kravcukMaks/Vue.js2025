@@ -57,6 +57,15 @@ http://localhost:5173/
 
 # 5. Скріншоти
 
+![Image1](vue1.png)
+
+![Image2](vue2.png)
+
+![Image3](vue3.png)
+
+![Image4](vue4.png)
+
+![Image5](vue5.png)
 
 # 6. Особливості стилізації у Vue.js
 ## 6.1 Scoped CSS
