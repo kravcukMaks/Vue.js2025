@@ -18,7 +18,13 @@ npm run dev
 http://localhost:5173/
 
 # Скріншоти роботи програми
+![Image1](vue1.png)
 
+![Image2](vue2.png)
+
+![Image3](vue3.png)
+
+![Image4](vue4.png)
 
 ## Головна сторінка
 
