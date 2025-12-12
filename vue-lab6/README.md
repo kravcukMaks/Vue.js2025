@@ -1,4 +1,3 @@
-```md
 # Лабораторна робота №6  
 ## Nuxt 4 + Nitro + SEO + Nuxt UI
 
@@ -57,6 +56,14 @@ http://localhost:3000
 ---
 
 # Скріншоти
+
+![Image1](vue1.png)
+
+![Image2](vue2.png)
+
+![Image3](vue3.png)
+
+![Image4](vue4.png)
 
 ---
 
